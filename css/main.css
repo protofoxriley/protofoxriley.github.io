@@ -1,7 +1,8 @@
-div { background-color: rgb(000,000,000); }
+
 body {
     margin: 60px auto;
     width: 70%;
+    div { background-color: rgb(000,000,000); }
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
