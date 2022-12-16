@@ -1,3 +1,4 @@
 name: ProtofoxRiley
 markdown: kramdown
+comments: true
 permalink: /blog/:year/:month/:day/:title
